@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class 직사각형_별찍기 {
-    public class Solution {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             int n = sc.nextInt();
@@ -14,4 +13,4 @@ public class 직사각형_별찍기 {
             }
         }
     }
-}
+
